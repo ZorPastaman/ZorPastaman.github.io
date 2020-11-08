@@ -29,8 +29,10 @@ The main advantage of Simple Blackboard is that it allocates as little as possib
 
 ## [Random Generators](https://github.com/ZorPastaman/Random-Generators)
 
-Random generators for Unity is a collection of random generators, different distributions, modificators and filters.
+Random generators for Unity is a collection of random generators, 
+different random engines, distributions, modificators and filters.
 
-The library has a useful infrastructure that makes it easy to expand it and add new distributions, modificators, filters and random generators.
+The library has a useful infrastructure that makes it easy to expand it and add new
+distributions, modificators, filters and random generators.
 
 The library is very fast and heap allocation free.
