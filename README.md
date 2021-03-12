@@ -23,9 +23,9 @@ It contains a lot of useful extensions for Blackboard component usage as well as
 
 ## [Simple Blackboard](https://github.com/ZorPastaman/Simple-Blackboard)
 
-Simple Blackboard for Unity is a flexible data storage that can contain any count of properties of any type. The properties can be accessed with property names.
+Simple Blackboard for Unity is a flexible runtime data container that can contain any count of properties of any type. The properties can be accessed with property names.
 
-The main advantage of Simple Blackboard is that it allocates as little as possible. Also it has good enough performance and supports derivation.
+The main advantage of Simple Blackboard is that it allocates as little as possible. Also, it has good enough performance and supports derivation.
 
 ## [Random Generators](https://github.com/ZorPastaman/Random-Generators)
 
