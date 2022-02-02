@@ -36,3 +36,9 @@ The library has a useful infrastructure that makes it easy to expand it and add 
 distributions, modificators, filters and random generators.
 
 The library is very fast and heap allocation free.
+
+## [Behavior Tree](https://github.com/ZorPastaman/Behavior-Tree)
+
+Behavior Tree for Unity is an implementation of a classical behavior tree for Unity engine. 
+Behavior trees allow you to easily set up a behavior switcher based on different conditions. 
+Usually, it's used for game AI.
