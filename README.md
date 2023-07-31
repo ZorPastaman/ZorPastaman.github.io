@@ -1,5 +1,5 @@
 [<img src="GitHubLogo.png" alt="https://github.com/ZorPastaman" height="32">](https://github.com/ZorPastaman) &nbsp;
-[<img src="TwitterLogo.png" alt="https://twitter.com/LawarZor1994" height="32">](https://twitter.com/LawarZor1994) &nbsp;
+[<img src="InstagramLogo.png" alt="https://www.instagram.com/pastaman48/" height="32">](https://www.instagram.com/pastaman48) &nbsp;
 [<img src="FacebookLogo.png" alt="https://www.facebook.com/vladimir.popov.5059" height="32">](https://www.facebook.com/vladimir.popov.5059) &nbsp;
 [<img src="InLogo.png" alt="https://www.linkedin.com/in/vladimir-popov-27a213130" height="32">](https://www.linkedin.com/in/vladimir-popov-27a213130) &nbsp;
 [<font size="24">@</font>](mailto:zor1994@gmail.com)
