@@ -9,6 +9,12 @@ This is my site where I publish my open source projects.
 
 # Unity
 
+## [Behavior Tree](https://github.com/ZorPastaman/Behavior-Tree)
+
+Behavior Tree for Unity is an implementation of a classical behavior tree for Unity engine.
+Behavior trees allow you to easily set up a behavior switcher based on different conditions.
+Usually, it's used for game AI.
+
 ## [Event Based Blackboard](https://github.com/ZorPastaman/Event-Based-Blackboard)
 
 Event Based Blackboard for Unity is a flexible data storage that can contain any count of properties of any type. 
@@ -24,17 +30,9 @@ Event Based Blackboard Extensions is an extension for
 [Event Based Blackboard](https://github.com/ZorPastaman/Event-Based-Blackboard).
 It contains a lot of useful extensions for Blackboard component usage as well as for regular c# Blackboard usage.
 
-## [Simple Blackboard](https://github.com/ZorPastaman/Simple-Blackboard)
-
-Simple Blackboard for Unity is a flexible runtime data container that can contain any count of properties of any type. 
-The properties can be accessed with property names.
-
-The main advantage of Simple Blackboard is that it allocates as little as possible. 
-Also, it has good enough performance and supports derivation.
-
 ## [Random Generators](https://github.com/ZorPastaman/Random-Generators)
 
-Random generators for Unity is a collection of random generators, 
+Random generators for Unity is a collection of random generators,
 different random engines, distributions, modificators and filters.
 
 The library has a useful infrastructure that makes it easy to expand it and add new
@@ -42,11 +40,13 @@ distributions, modificators, filters and random generators.
 
 The library is very fast and heap allocation free.
 
-## [Behavior Tree](https://github.com/ZorPastaman/Behavior-Tree)
+## [Simple Blackboard](https://github.com/ZorPastaman/Simple-Blackboard)
 
-Behavior Tree for Unity is an implementation of a classical behavior tree for Unity engine. 
-Behavior trees allow you to easily set up a behavior switcher based on different conditions. 
-Usually, it's used for game AI.
+Simple Blackboard for Unity is a flexible runtime data container that can contain any count of properties of any type. 
+The properties can be accessed with property names.
+
+The main advantage of Simple Blackboard is that it allocates as little as possible. 
+Also, it has good enough performance and supports derivation.
 
 # C++
 
