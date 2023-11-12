@@ -48,6 +48,10 @@ The properties can be accessed with property names.
 The main advantage of Simple Blackboard is that it allocates as little as possible. 
 Also, it has good enough performance and supports derivation.
 
+## [UtilityAI](https://github.com/ZorPastaman/UtilityAI)
+
+Utility AI for Unity is a good solution for choosing an action based on different utility considerations. Usually, it's used for AI.
+
 # C++
 
 ## [Linear Memory Allocator](https://github.com/ZorPastaman/Linear-Memory-Allocator)
